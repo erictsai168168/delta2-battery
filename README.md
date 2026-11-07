@@ -2,7 +2,7 @@
 
 **English** | [繁體中文](README.zh-TW.md)
 
-A tiny, dark and flat Windows tray app that shows the battery level of an **ASUS ROG Delta II** headset connected through its **2.4 GHz dongle** — no Armoury Crate required.
+A tiny, dark and flat Windows tray app that shows the battery level of an **ASUS ROG Delta II** headset connected through its **2.4 GHz dongle** — no Armoury Crate required. Built with Claude Sonnet 5.5. Yes, even on the free plan.
 
 > **Unofficial project.** This is an independent, community-made tool. It is not affiliated with, endorsed by, or supported by ASUSTeK Computer Inc. "ASUS" and "ROG" are trademarks of ASUSTeK Computer Inc., used here only to describe which hardware the tool works with.
 
