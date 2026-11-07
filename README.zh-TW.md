@@ -2,7 +2,7 @@
 
 [English](README.md) | **繁體中文**
 
-一個小巧、深色、扁平的 Windows 系統匣小工具，用來顯示 **ASUS ROG Delta II** 耳機透過 **2.4G 接收器** 連線時的電量，不需要開 Armoury Crate。使用Claude Sonnet 5.5編寫，有趣的是我使用的只是Claude Free方案。
+一個小巧的 Windows 系統匣小工具，用來顯示 **ASUS ROG Delta II** 耳機透過 **2.4G 接收器** 連線時的電量，不需要開 Armoury Crate。使用Claude Sonnet 5.5編寫，有趣的是我使用的只是Claude Free方案。
 
 > **非官方專案。** 這是社群個人製作的獨立工具，與華碩（ASUSTeK Computer Inc.）無關，也未獲其授權或背書。「ASUS」「ROG」為華碩的商標，這裡僅用來說明本工具適用的硬體。
 
