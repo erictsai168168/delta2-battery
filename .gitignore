@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller / build output
+build/
+dist/
+*.spec
+
+# Probe tool output (may contain device paths)
+probe_result.txt
+probe_query_result.txt
+
+# Runtime
+*.lock
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
